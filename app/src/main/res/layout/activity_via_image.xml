@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ViaImage">
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/via_image_home"
+        android:background="@drawable/ic_baseline_home_24"
+        tools:ignore="ContentDescription" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/via_image_title"
+        android:text="@string/connect_via_image"
+        android:textColor="@color/white"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:layout_below="@id/via_image_home"
+        android:gravity="center"/>
+
+    <ImageView
+        android:id="@+id/via_image_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/via_image_title"
+        android:layout_marginVertical="20dp"
+        android:layout_above="@id/via_image_capture_image"
+        tools:ignore="ContentDescription" />
+
+
+    <Button
+        android:id="@+id/via_image_capture_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/capture_image"
+        android:textAllCaps="false"
+        android:layout_above="@+id/via_image_connect"
+        android:backgroundTint="@color/design_default_color_on_secondary"
+        android:textSize="17sp"
+        />
+
+    <Button
+        android:id="@+id/via_image_connect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/connect"
+        android:backgroundTint="@color/design_default_color_on_secondary"
+        android:textAllCaps="false"
+        android:textSize="17sp"
+        />
+</RelativeLayout>

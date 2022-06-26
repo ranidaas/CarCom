@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CarCom</string>
+    <string name="car_communication">Car Communication</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="welcome">Welcome</string>
+    <string name="chats">Chats</string>
+    <string name="connect_via_text">CONNECT VIA TEXT</string>
+    <string name="connect_via_image">CONNECT VIA IMAGE</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="enter_your_email_so_we_can_send_a_change_password_link">Enter Your Email so we can send a change password link</string>
+    <string name="send">SEND</string>
+    <string name="return_to_sign_in">Return to Sign in!!</string>
+    <string name="full_name">Full Name</string>
+    <string name="license_plate">License Plate</string>
+    <string name="please_make_sure_to_take_the_image_just_like_the_example_shown_n_nexample">Please make sure to take the image just like the example shown\n\nEXAMPLE:</string>
+    <string name="or">OR:</string>
+    <string name="ok">OK</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="connect">CONNECT</string>
+    <string name="enter_the_car_license_plate_number_to_connect">Enter The Car License Plate Number To Connect</string>
+    <string name="license_plate_number">License Plate Number</string>
+    <string name="sender_message_display_here">sender_message_display_here</string>
+    <string name="_20_09">_20_09</string>
+    <string name="chat">CHAT</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="user">user</string>
+</resources>

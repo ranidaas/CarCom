@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1090746109173",
+    "firebase_url": "https://carcom-da5bc-default-rtdb.firebaseio.com",
+    "project_id": "carcom-da5bc",
+    "storage_bucket": "carcom-da5bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090746109173:android:f4adeb45d81cf3d150c9bc",
+        "android_client_info": {
+          "package_name": "com.example.carcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090746109173-qae65t04ej947iqpt718e2uqcmtakasp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3DrCc-sPOJYMkaJ8mUrE8ovxB8JzBotw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090746109173-qae65t04ej947iqpt718e2uqcmtakasp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
